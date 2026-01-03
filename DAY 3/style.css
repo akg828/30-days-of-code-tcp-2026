@@ -1,0 +1,144 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: rgb(24, 24, 34);
+  color: white;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+
+header {
+  max-width: 1000px;
+  margin: 0 auto 40px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  
+  color: rgb(0, 110, 255);
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: rgb(76, 175, 80);
+  text-decoration: underline;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 2.2rem;
+  text-shadow: 2px 2px 6px rgba(76, 175, 80, 0.6);
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  letter-spacing: 3px;
+  border-left: 5px solid rgb(76, 175, 80);
+  padding-left: 10px;
+}
+
+p {
+  font-size: 1rem;
+  margin-top: 10px;
+}
+
+section {
+  max-width: 900px;
+  margin: 0 auto 50px;
+  padding: 20px;
+  background-color: rgb(31, 31, 46);
+  border-radius: 10px;
+}
+
+
+.photo-section {
+  text-align: center;
+}
+
+.photo-section img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.photo-section img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+}
+
+
+.btn {
+  display: inline-block;
+  background-color: rgb(76, 175, 80);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.3s;
+
+}
+
+.btn:hover {
+  background-color: rgb(67, 160, 71);
+}
+
+
+ul {
+  background-color: rgb(34, 34, 52);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+ul li {
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+
+
+.about-me p {
+  margin-bottom: 15px;
+}
+
+dt {
+  letter-spacing: 3px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: rgb(76, 175, 80);
+}
+
+dd {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+a {
+  color: rgb(0, 110, 255);
+}
+
+a:hover {
+  opacity: 0.85;
+}
+
+blockquote {
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 5px;
+  margin: 40px 0;
+  text-decoration: underline overline;
+}
