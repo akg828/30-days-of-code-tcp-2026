@@ -15,3 +15,4 @@ This repository contains my daily solutions for the 30 Days of Code challenge or
 <img width="1919" height="1008" alt="Screenshot 2026-01-05 232638" src="https://github.com/user-attachments/assets/5dc951c9-1b27-4b13-9ee3-5db1fdf0c5a7" />
 <img width="1919" height="1010" alt="Screenshot 2026-01-06 214343" src="https://github.com/user-attachments/assets/d337ae21-786b-4b50-9fbc-31868ff6b90b" />
 <img width="1919" height="1010" alt="Screenshot 2026-01-08 002358" src="https://github.com/user-attachments/assets/0d6321e2-3d75-4726-8580-938914443274" />
+<img width="1919" height="1010" alt="Screenshot 2026-01-08 002358" src="https://github.com/user-attachments/assets/78773655-0a8d-4f4b-9d4f-47e4ca96cb33" />
